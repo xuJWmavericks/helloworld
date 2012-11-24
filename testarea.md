@@ -38,5 +38,14 @@
     AMD64 Family 18 Model 1 Stepping 0, AuthenticAMD
 个人感觉是显示出了python当前运行环境的参数，包括系统平台，系统版本，主板架构，处理器参数。
 
+### Xu Jiawen
+ 
+    Windows
+    lenovo-THINK
+    7
+    6.1.7601
+    x86
+    x86 Family 18 Model 1 Stepping 0, AuthenticAMD
+
 
 <!-- vim:set ai et ts=4 sw=4 sts=4 ff=unix fenc=utf-8 syn=markdown: -->
